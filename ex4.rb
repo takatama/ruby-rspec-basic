@@ -8,6 +8,6 @@
 #   listA リストその1
 #   listB リストその2
 # returns: 交互に要素を取り結合したリスト
-def my_mod(a, b)
+def my_concat(listA, listB)
   -1
 end
